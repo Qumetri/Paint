@@ -1,0 +1,24 @@
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\jurale\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
+E:\Visual Studio\TRY ME\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+E:\Visual Studio\TRY ME\WindowsApp8\bin\Debug\WindowsApp8.exe
+E:\Visual Studio\TRY ME\WindowsApp8\bin\Debug\WindowsApp8.pdb
+E:\Visual Studio\TRY ME\WindowsApp8\bin\Debug\WindowsApp8.xml
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.exe
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.xml
+E:\Visual Studio\TRY ME\WindowsApp8\obj\Debug\WindowsApp8.pdb
